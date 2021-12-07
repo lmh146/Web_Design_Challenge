@@ -1,0 +1,43 @@
+h1 {
+    color:lightseagreen;
+    margin-left: 10px;
+    font-family:Georgia, 'Times New Roman', Times, serif;
+    font-weight: bolder;
+}
+h2 {
+    color:lightseagreen;
+    margin-left: 10px;
+    font-family:Georgia, 'Times New Roman', Times, serif;
+    font-weight: bolder;
+}
+h3{
+    color:lightseagreen;
+    text-align:center;
+    font-size: 24px;
+    font-family:Georgia, 'Times New Roman', Times, serif;
+    font-weight: bolder;
+}
+
+hr{
+    margin-left: 10px;
+    margin-right: 10px;
+}
+
+#main_page{
+    background-color: lightseagreen;
+    color: white;
+    font-family:Georgia, 'Times New Roman', Times, serif;
+    font-weight: bolder;
+    font-size: 20px;
+}
+
+.border{
+    border: 10px;
+    border-color: lightseagreen;
+}
+
+p{
+    font-size: 15px;
+    font-family:Georgia, 'Times New Roman', Times, serif;
+    color:lightslategray;
+}
